@@ -1,6 +1,6 @@
 # LEDExample
 
-An example how to paid a LED to turn it on for some IOTAs
+An example how to paid with some IOTAs a LED and turn it on for a while.
 
 > This example is made in JavaScript, be sure that you have NodeJS and npm installed
 
@@ -13,7 +13,7 @@ npm i
 
 ## Edit
 
-This example used an Arduino with Johnny-five library. You should edit these lines:
+This example is made with Arduino and used the Johnny-five library for NodeJS. You should edit these lines:
 
 ```
 8.   const seedLed = ''
