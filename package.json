@@ -1,0 +1,21 @@
+{
+  "name": "ledexample",
+  "version": "0.0.1",
+  "description": "An example how to paid a LED to turn it on for some IOTAs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "led",
+    "iot",
+    "tangle"
+  ],
+  "author": "@chrislaive",
+  "license": "MIT",
+  "dependencies": {
+    "delay": "^3.0.0",
+    "iota.lib.js": "^0.4.7",
+    "johnny-five": "^0.15.0"
+  }
+}
